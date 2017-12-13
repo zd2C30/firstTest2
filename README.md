@@ -1,6 +1,6 @@
 # Github Test
 
-##　使用上の注意
+#　使用上の注意
 
 -　環境設定
 
@@ -9,7 +9,7 @@
 -　使い方
 
 
-##　コードサンプル
+#　コードサンプル
 
 ~~~html
 <html>
@@ -22,7 +22,7 @@
 ---
 
 
-|aaa|bbb|ccc|
+|:-aaa|:-bbb|:-ccc|
 |sss|ssss|rrr|
 |rrrrr|tttt|aaaaa|
 
